@@ -1,6 +1,6 @@
 # Welcome to Ink Kit
 
-Ink Kit is an onchain-focused SDK that delivers a delightful developer experience with ready-to-use app layout templates, themes, and magical animated components.
+Ink Kit is an onchain-focused SDK that delivers a delightful developer experience with an app layout templates, themes, and magical animated components.
 
 ## Install
 
